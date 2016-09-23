@@ -5,6 +5,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 
 --*/
+
+
+body{
+      zoom: 86% !important;
+}
 .color-black{
   color: black !important;
 }
